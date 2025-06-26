@@ -6,8 +6,8 @@ import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 
 export const metadata: Metadata = {
-  title: "Nunana Smart Farm",
-  description: "Welcome to Nunana Smart Farm",
+  title: "Nunana Farms",
+  description: "Welcome to Nunana Farms",
 };
 
 export default function RootLayout({
